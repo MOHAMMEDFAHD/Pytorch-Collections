@@ -14,6 +14,7 @@ Each folder contains:
 - `modules/`: reusable model components
 - `utils/`: training tools and helper functions
 
+
 ## 📌 Topics Covered
 - Image Classification
 - Object Detection
