@@ -14,7 +14,7 @@ Each folder contains:
 - `modules/`: reusable model components
 - `utils/`: training tools and helper functions
 
-
+![pytorch](https://programmingoceanacademy.s3.ap-southeast-1.amazonaws.com/images/PyTorch.webp)
 ## 📌 Topics Covered
 - Image Classification
 - Object Detection
