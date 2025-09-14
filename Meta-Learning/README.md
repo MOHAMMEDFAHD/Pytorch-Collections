@@ -23,7 +23,8 @@ This repository, **`met-learning`**, is designed as a **living collection of lab
 ---
 
 ## 🏗️ Repository Structure (Growing Roadmap)
-met-learning/
+```
+meta-learning/
 │
 ├── labs/ # Independent meta-learning experiments
 │ ├── few-shot/ # Prototypical, Matching, Relation Networks
@@ -39,7 +40,7 @@ met-learning/
 ├── train.py # Generic episodic training pipeline
 ├── evaluate.py # Evaluation & benchmarking
 └── README.md # You are here 🚀
-
+```
 
 ---
 
