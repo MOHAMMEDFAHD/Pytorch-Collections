@@ -35,7 +35,7 @@ Then came the game-changer:
 
 ## 📂 Repository Structure
 
-```bash
+
 transformers/
 ├── AttentionIsAllYouNeed/       # Original Transformer replication
 ├── BERT/                        # Bidirectional encoding (Devlin et al.)
@@ -133,7 +133,6 @@ Transformers are now the **core infrastructure of modern AI** across domains:
 
 Clone the repo and install dependencies:
 
-```bash
 git clone https://github.com/Programming-Ocean-Academy/deep-learning/transformers
 cd transformers
 pip install -r requirements.txt
