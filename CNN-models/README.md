@@ -128,6 +128,6 @@ This is not just a repo. It’s a **learning platform** and **historical archive
 
 ---
 
-✨ **With Mohammed Fahd Abrah: Teaching AI by Recreating Its History**  
+✨ **AI Era: Teaching AI by Recreating Its History**  
 Replicate. Learn. Innovate. 🔨🤖🔧
 
