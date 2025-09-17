@@ -41,7 +41,7 @@ We go beyond replication — each notebook is a *didactic lab* that trains, eval
 - **End-to-End AVSR** (Makino et al., 2019; Sterpu et al., 2018): Large-scale multimodal systems.  
 
 ---
-
+```
 ## 📂 Repository Structure
 
 📦 multi-modal
@@ -67,7 +67,7 @@ We go beyond replication — each notebook is a *didactic lab* that trains, eval
 ┗ 📂 results
 ┣ loss_curves/
 ┗ generated_samples/
-
+```
 
 ---
 
@@ -98,30 +98,3 @@ We go beyond replication — each notebook is a *didactic lab* that trains, eval
 
 ## 🛠️ Getting Started
 
-### Installation
-
-git clone https://github.com/your-username/multi-modal.git
-cd multi-modal
-pip install -r requirements.txt
-Quick Run (Toy Example)
-bash
-
-cd notebooks
-jupyter notebook conformer.ipynb
-📚 References
-Vaswani et al., Attention is All You Need, NeurIPS 2017.
-
-Gulati et al., Conformer: Convolution-augmented Transformer for Speech Recognition, Interspeech 2020.
-
-Chang et al., Conformers are All You Need for Visual Speech Recognition, arXiv 2023.
-
-Ma et al., End-to-End Audio-Visual Speech Recognition with Conformers, arXiv 2021.
-
-Rekesh et al., Fast Conformer, arXiv 2023.
-
-Ramponi et al., Conformer-1: Robust ASR Model, 2023.
-
-and many more — see papers.md.
-
-🌟 Acknowledgements
-This repo builds upon the academic contributions of the ASR, VSR, and AVSR communities. It is designed as a learning and research tool for those interested in multi-modal deep learning architectures.
