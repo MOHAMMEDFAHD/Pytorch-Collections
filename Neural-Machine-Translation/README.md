@@ -102,10 +102,3 @@ Each Jupyter notebook follows a consistent structure:
 - Serve as a companion resource for studying the foundations of machine translation  
 
 ---
-
-## How to Use
-
-Clone the repository:
-```bash
-git clone https://github.com/Programming-Ocean-Academy/deep-learning.git
-cd deep-learning/neural-machine-translation
