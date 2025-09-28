@@ -80,3 +80,8 @@ Each folder represents a specific category of generative or neural architecture:
 ## Usage
 
 All notebooks are written for clarity and modularity.
+
+License
+
+This project is licensed under the MIT License.
+It is free for personal, educational, and research use.
