@@ -1,16 +1,17 @@
-# 🌊 Deep Learning With Pytorch Framework
+# Deep Learning With PyTorch Framework
 
-Welcome to **Mohammed Abrah's PyTorch Deep Learning Repository**! This project is a comprehensive educational suite showcasing a variety of **generative models** implemented with PyTorch, ranging from foundational architectures to modern, cutting-edge designs.
-
----
-
-## 🎯 Objective
-
-This repository serves as an academic and teaching-oriented resource for understanding, building, and visualizing deep generative models. It is designed to help students, researchers, and practitioners explore the diversity of generative learning approaches in a modular and clear format.
+Welcome to **Mohammed Abrah's PyTorch Deep Learning Repository**.  
+This project is a comprehensive educational suite showcasing a variety of **generative models** implemented with PyTorch, ranging from foundational architectures to modern, cutting-edge designs.
 
 ---
 
-## 📚 Repository Structure
+## Objective
+
+This repository serves as an academic and teaching-oriented resource for understanding, building, and visualizing deep generative models. It is designed to help students, researchers, and practitioners explore the diversity of generative learning approaches in a modular and structured format.
+
+---
+
+## Repository Structure
 
 Each folder represents a specific category of generative or neural architecture:
 
@@ -36,89 +37,46 @@ Each folder represents a specific category of generative or neural architecture:
 
 ---
 
-## 🔍 Highlighted Projects
+## Highlighted Projects
 
-### 1. **Diffusion Models**
+### 1. Diffusion Models
+*"A Concise Implementation of Denoising Diffusion Probabilistic Models for Generative Image Synthesis in PyTorch"*
 
-> *"A Concise Implementation of Denoising Diffusion Probabilistic Models for Generative Image Synthesis in PyTorch"*
+- U-Net architecture with Gaussian noise scheduling  
+- Reverse sampling with denoising  
 
-* U-Net architecture with Gaussian noise scheduling
-* Reverse sampling with denoising
+### 2. GANs
+*"Adversarial Image Synthesis with Generative Networks: A PyTorch Implementation of GANs on MNIST"*
 
-### 2. **GANs**
+- Generator and Discriminator loop  
+- Real versus generated image comparison  
 
-> *"Adversarial Image Synthesis with Generative Networks: A PyTorch Implementation of GANs on MNIST"*
+### 3. VAEs
+*"Latent Variable Modeling and Image Generation with Variational Autoencoders: A PyTorch-Based Study on MNIST"*
 
-* Generator + Discriminator loop
-* Real vs. generated image comparison
+- Reparameterization trick  
+- Sampling and interpolation  
 
-### 3. **VAEs**
+### 4. Score-Based Models
+*"Unsupervised Image Synthesis via Score Matching and Langevin Dynamics: A Score-Based Generative Framework on MNIST"*
 
-> *"Latent Variable Modeling and Image Generation with Variational Autoencoders: A PyTorch-Based Study on MNIST"*
+- Trainable score networks  
+- MCMC sampling  
 
-* Reparameterization trick
-* Sampling and interpolation
+### 5. Text-to-Image (Mini DALL·E)
+*"Learning Discrete Visual Representations from Textual Descriptions: A Simplified VQ-VAE Framework for Text-to-Image Generation"*
 
-### 4. **Score-Based Models**
+- VQ-VAE with Transformer backbone  
+- Captioned image generation (color, shape, objects)  
 
-> *"Unsupervised Image Synthesis via Score Matching and Langevin Dynamics: A Score-Based Generative Framework on MNIST"*
+### 6. Image Captioning
+*"Visual Grounding through Language: A Minimalist Encoder-Decoder Framework for Image Captioning with Attention in PyTorch"*
 
-* Trainable score networks
-* MCMC sampling
-
-### 5. **Text-to-Image (Mini DALL·E)**
-
-> *"Learning Discrete Visual Representations from Textual Descriptions: A Simplified VQ-VAE Framework for Text-to-Image Generation"*
-
-* VQ-VAE + Transformer
-* Color/shape captioned image generation
-
-### 6. **Image Captioning**
-
-> *"Visual Grounding through Language: A Minimalist Encoder-Decoder Framework for Image Captioning with Attention in PyTorch"*
-
-* ResNet + LSTM with soft attention
-* Caption generation for synthetic scenes
+- ResNet encoder combined with LSTM and soft attention  
+- Caption generation for synthetic scenes  
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 All notebooks are written for clarity and modularity.
-
-```bash
-# Clone the repository
-git clone https://github.com/mohammedabrah/pytorch-deep-learning.git
-```
-
-Open any `.ipynb` file in JupyterLab, Google Colab, or VSCode and run directly.
-
----
-
-## ✨ Contributing
-
-We welcome contributions to extend this educational repository:
-
-* Add new generative model examples
-* Improve visualizations or metrics
-* Refactor notebooks into scripts or modules
-
----
-
-## 📜 License
-
-MIT License. Free for personal, educational, and research use.
-
----
-
-## 🙏 Acknowledgements
-
-Inspired by work from:
-
-* OpenAI, DeepMind, LucidRain
-* PyTorch community and tutorials
-* DALL·E, VQ-VAE, and DDPM original papers
-
----
-
-Enjoy exploring generative deep learning with PyTorch! 🌊
