@@ -81,7 +81,30 @@ Each folder represents a specific category of generative or neural architecture:
 
 All notebooks are written for clarity and modularity.
 
-License
+## Contribution
 
-This project is licensed under the MIT License.
+Contributions are welcome to extend and enhance this educational repository. You may:
+
+- Add new generative model examples  
+- Improve visualizations or evaluation metrics  
+- Refactor existing notebooks into reusable scripts or modules  
+
+To contribute, fork the repository, create a feature branch, and submit a pull request with a clear description of the changes.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
 It is free for personal, educational, and research use.
+
+---
+
+## Acknowledgements
+
+This repository is inspired by contributions from:
+
+- OpenAI, DeepMind, LucidRain  
+- The PyTorch community and official tutorials  
+- Original research papers on DALL·E, VQ-VAE, and DDPM  
+
