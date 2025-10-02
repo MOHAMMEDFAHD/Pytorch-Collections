@@ -164,4 +164,4 @@ We aim to:
 ---
 
  **Mohammed Fahd Abrah** — *Teaching AI by Recreating Its History*  
-**Replicate. Understand. Extend.** 🔨🤖🔧
+**Replicate. Understand. Extend.** 
