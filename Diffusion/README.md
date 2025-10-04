@@ -16,7 +16,7 @@ Our mission is to:
 
 ---
 
-## 🗂 Repository Structure
+##  Repository Structure
 Each notebook is structured like a mini research paper replication:
 
 - **Abstract & Motivation** – why the paper matters.  
