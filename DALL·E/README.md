@@ -68,7 +68,7 @@ Each notebook includes:
 
 To reproduce results:
 
-```bash
+```
 git clone https://github.com/MOHAMMEDFAHD/Pytorch-Collections.git
 cd Pytorch-Collections/DALL-E
 pip install torch torchvision matplotlib numpy
@@ -104,7 +104,7 @@ This work builds upon and simplifies concepts from:
 **Mohammed Fahd Abrah**  
 AI Engineer & Researcher | Founder, **Programming Ocean Academy**  
 Building open educational ecosystems for **AI**, **Machine Learning**, and **Generative Modeling**.  
-🔗 [https://www.programming-ocean.com](https://www.programming-ocean.com)
+ [https://www.programming-ocean.com](https://www.programming-ocean.com)
 
 ---
 
