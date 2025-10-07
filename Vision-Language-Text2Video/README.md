@@ -17,7 +17,7 @@ Each notebook or PDF represents a **complete academic workflow**:
 ---
 
 ##  Repository Structure
-
+```
 vision-language-text2video/
 │
 ├── A_Review_on_Background,_Technology,_Limitations,and_Future_Scope_of_Text-to-Video_Generation_in_Pytorch.ipynb
@@ -45,7 +45,7 @@ vision-language-text2video/
 │ integrating cognitive AI and temporal grounding.
 │
 └── README.md
-
+```
 
 ---
 
